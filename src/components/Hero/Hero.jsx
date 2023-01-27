@@ -10,9 +10,7 @@ const Hero = () => {
         <h1 className="text-4xl sm:text-7xl font-bold text-white">Rejaul Karim Rabbi</h1>
         <h2 className="text-4xl sm:text-7xl font-bold text-[#8892b0]">I am a full stack developer</h2>
         <p className="text-[#8892b0] py-4 max-w-[700px]">
-          I am a full stack developer specializing in building (and occasionally
-          designing) exeptionally digital experience. i am focused on building
-          responsive full stack application
+        As a full-stack developer, I specialize in creating (and sometimes designing) exceptional digital experiences. My focus is on developing responsive full-stack applications.
         </p>
         <div>
           <button className=" group text-white border-2 px-6 py-4 my-2 flex items-center hover:bg-pink-600 hover:border-pink-600">
